@@ -116,12 +116,10 @@ ul li a {
   border-radius: 50%;
   font-size: 30px;
   color: #666;
-  transition: .5s;
-  box-shadow: 0 0 10px #ef5d2c;
-  text-shadow: 0 0 10px #ef5d2c;
+
 }
 
-/* ul li a::before {
+ul li a::before {
   content: '';
   position: absolute;
   top: 0;
@@ -144,4 +142,4 @@ ul li a:hover {
   color: #ef5d2c;
   box-shadow: 0 0 5px #ef5d2c;
   text-shadow: 0 0 5px #ef5d2c;
-} */
+}
