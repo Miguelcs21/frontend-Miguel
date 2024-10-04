@@ -33,10 +33,11 @@ body {
 
 .picProfile {
  border-radius: 50%;
- border: 3px solid #ef5d2c;
+ border: 2px solid #ef5d2c;
  color: #ef5d2c;
  box-shadow: 0 0 10px #ef5d2c;
  text-shadow: 0 0 10px #ef5d2c;
+ height: 260px;
   }
 
 
